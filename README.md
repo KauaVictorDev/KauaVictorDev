@@ -15,17 +15,13 @@
 
 ---
 
-## 🚀 Skills
+## 🛠️ Technologies & Tools
 
-<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/> <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" width="40" height="40"/>  
-
-- 💻 HTML, CSS
-- ⚡ JavaScript
-- 🐍 Python
-- 📊 Power BI
-- 🛢️ Basic SQL
-
----
+![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5)
+![CSS](https://img.shields.io/badge/CSS-14213d?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/JavaScript-e5e5e5?style=for-the-badge&logo=javascript)
+![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
+![GitHub](https://img.shields.io/badge/GitHub-14213d?style=for-the-badge&logo=github)
 
 ## 📈 Currently Learning
 
@@ -45,8 +41,8 @@
 
 ## 📫 Contact Me
 
-- 💼 LinkedIn: (coloque seu link aqui)
-- 📧 Email: (coloque seu email aqui)
+- 💼 LinkedIn: (https://www.linkedin.com/in/kau%C3%A3-victor-216800344/?skipRedirect=true)
+- 📧 Email: (kauavictor042@gmail.com)
 
 ---
 
