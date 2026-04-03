@@ -20,6 +20,9 @@
 ![HTML](https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5)
 ![CSS](https://img.shields.io/badge/CSS-14213d?style=for-the-badge&logo=css3)
 ![JavaScript](https://img.shields.io/badge/JavaScript-e5e5e5?style=for-the-badge&logo=javascript)
+![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
+![SQL](https://img.shields.io/badge/SQL-14213d?style=for-the-badge&logo=postgresql)
+![Excel](https://img.shields.io/badge/Excel-e5e5e5?style=for-the-badge&logo=microsoft-excel)
 ![Git](https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git)
 ![GitHub](https://img.shields.io/badge/GitHub-14213d?style=for-the-badge&logo=github)
 
