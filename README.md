@@ -10,24 +10,24 @@
 
 ---
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 About Me
 
-Olá! Sou o **Kauã Victor**, um entusiasta de tecnologia em transição para o mercado profissional. Atualmente, curso **Análise e Desenvolvimento de Sistemas**, onde venho construindo uma base sólida em arquitetura de software e lógica de programação.
+Hi! I'm **Kauã Victor**, a technology enthusiast transitioning into the professional market. Currently, I am pursuing a degree in **Systems Analysis and Development**, building a solid foundation in software architecture and programming logic.
 
-Minha trajetória é movida pela curiosidade e pela busca por eficiência. Foco meu desenvolvimento em:
+My journey is driven by curiosity and a constant search for efficiency. I focus my development on:
 
-* **Desenvolvimento Backend:** Construindo aplicações robustas utilizando **Java** e **Python**, explorando conceitos de Programação Orientada a Objetos (POO) e integração com bancos de dados **PostgreSQL**.
-* **Análise de Dados:** Utilizo **Python (Pandas e NumPy)** para transformar dados brutos em insights, unindo meu raciocínio lógico à resolução de problemas reais.
-* **Ecossistema Web:** Domínio das tecnologias fundamentais (**HTML5, CSS3, JavaScript**) para criar interfaces funcionais e responsivas.
+* **Backend Development:** Building robust applications using **Java** and **Python**, exploring Object-Oriented Programming (OOP) concepts and integration with **PostgreSQL** databases.
+* **Data Analysis:** Leveraging **Python (Pandas and NumPy)** to transform raw data into insights, combining logical reasoning with real-world problem-solving.
+* **Web Ecosystem:** Proficiency in core technologies (**HTML5, CSS3, JavaScript**) to create functional and responsive interfaces.
 
-### 🚀 Carreira e Projetos
+### 🚀 Career & Projects
 
-Encaro meus projetos pessoais como laboratórios de engenharia para aplicar conceitos teóricos na prática:
-- **Desenvolvimento de Software:** Trabalho em repositórios que aplicam padrões de projeto em Java, focando em código limpo e manutenível.
-- **Data Intelligence:** Desenvolvo scripts para automação e análise exploratória, buscando sempre a melhor performance.
-- **Lifelong Learning:** Dedico tempo diário ao aprimoramento do meu **Inglês**, visando colaborações internacionais e acesso a documentações técnicas avançadas.
+I view my personal projects as engineering labs to apply theoretical concepts in practice:
+- **Software Development:** Maintaining repositories that implement design patterns in Java, with a strong focus on clean and maintainable code.
+- **Data Intelligence:** Developing scripts for automation and exploratory analysis, always aiming for peak performance.
+- **Lifelong Learning:** Dedicated to continuous improvement, staying up-to-date with global tech trends and advanced technical documentation.
 
-Estou em busca da minha primeira oportunidade como **Estagiário ou Desenvolvedor Júnior**, onde possa aplicar minha capacidade analítica e proatividade para somar à equipe.
+I am currently looking for my first opportunity as a **Tech Intern or Junior Developer**, where I can apply my analytical skills and proactivity to contribute to a team.
 
 ---
 
@@ -38,7 +38,7 @@ Estou em busca da minha primeira oportunidade como **Estagiário ou Desenvolvedo
 
 ---
 
-### 📊 Atividade & Performance
+### 📊 Activity & Performance
 <div align="center">
   <table border="0">
     <tr>
@@ -53,13 +53,13 @@ Estou em busca da minha primeira oportunidade como **Estagiário ou Desenvolvedo
   
   <br />
   
-  <p><b>Contribuições nos últimos meses:</b></p>
+  <p><b>Contributions in the last few months:</b></p>
   <img src="https://raw.githubusercontent.com/KauaVictorDev/KauaVictorDev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" width="100%" />
 </div>
 
 ---
 
-### 📂 Repositórios em Destaque
+### 📂 Featured Projects
 <div align="center">
   <a href="https://github.com/KauaVictorDev?tab=repositories">
     <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=KauaVictorDev&repo=KauaVictorDev&theme=dracula&hide_border=true" />
@@ -67,6 +67,11 @@ Estou em busca da minha primeira oportunidade como **Estagiário ou Desenvolvedo
 </div>
 
 ---
+
+### 📫 Let's Connect!
+<div align="center">
+  <p>Feel free to reach out for collaborations or a quick tech chat!</p>
+</div>
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" />
