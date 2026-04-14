@@ -8,14 +8,51 @@
 ## 📈 Meu Progresso no GitHub
 
 <div align="center">
-  <img src="https://github.com/KauaVictorDev/KauaVictorDev/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=120&section=header&text=Olá,%20sou%20o%20Kauã%20Victor&fontSize=35&animation=fadeIn" />
+  
+  <img src="https://raw.githubusercontent.com/KauaVictorDev/KauaVictorDev/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
 </div>
+
+<br>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KauaVictorDev&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide=issues" alt="GitHub Stats" height="170em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaVictorDev&layout=compact&langs_count=6&theme=dracula&hide=javascript,css,html" alt="Top Languages" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KauaVictorDev&show_icons=true&theme=dracula&count_private=true" height="170em" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KauaVictorDev&layout=compact&langs_count=6&theme=dracula" height="170em" />
 </div>
 
+---
+
+### 🛠️ Tecnologias e Habilidades
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,py,java,html,css,postgres,git,github,vscode,linux" />
+</p>
+
+---
+
+### 📂 Meus Projetos Reais
+<div align="center">
+  <a href="https://github.com/KauaVictorDev/NOME_DO_REPO">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=KauaVictorDev&repo=NOME_DO_REPO&theme=dracula" />
+  </a>
+</div>
+
+---
+
+### 📫 Vamos Conversar?
+<div align="center">
+  <a href="https://www.linkedin.com/in/kau%C3%A3-victor-216800344/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:kauavictor042@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</div>
+
+<br>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0077B5&height=100&section=footer" />
+</p>
 ---
 
 ## 💡 Sobre Mim
